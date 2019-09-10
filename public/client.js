@@ -21,9 +21,3 @@ function showValue(value) {
   
   info.textContent = 'リポジトリ総数は、' + value.total_count + '個あります。';
 }
-
-
-/*
-割引は？
-イベントの場所？
-*/
