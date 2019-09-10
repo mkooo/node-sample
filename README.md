@@ -1,1 +1,1 @@
-# node-sample
+# node.js サンプル
